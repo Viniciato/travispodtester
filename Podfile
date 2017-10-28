@@ -6,5 +6,6 @@ target 'TravisPodTester' do
   use_frameworks!
 
   # Pods for TravisPodTester
+  pod 'FontAwesome.swift'
 
 end

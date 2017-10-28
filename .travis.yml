@@ -1,4 +1,4 @@
 language: objective-c
 osx_image: xcode9
-xcode_workspace: NexMe.xcworkspace
+xcode_workspace: TravisPodTester.xcworkspace
 podfile: Podfile
